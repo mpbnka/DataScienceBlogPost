@@ -41,7 +41,7 @@ Vedio Game Sales.ipynb - notebook where i did my analysis to find answers to my 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post](https://medium.com/@u0509421/fifa-19-complete-player-dataset-what-can-we-tell-from-it-f7343fdad020) available
+The main findings of the code can be found at the [post](https://medium.com/@acharyamudumbi428/video-game-trends-the-past-bd988233b8e) available
 
 
 
